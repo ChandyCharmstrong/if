@@ -1,0 +1,6 @@
+time = 11 
+
+if time < 11 or time == 11:
+    print("Time for a run, you fat fuck!")
+else: 
+    print("No time to run, you'll have to do something else")
